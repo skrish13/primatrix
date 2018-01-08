@@ -1,0 +1,45 @@
+204
+------------------------TRAINING testingout - EPOCH: 0---------------------------
+Epoch: 0, Batch: 0/2, Loss:3.23354887962
+Epoch: 0, Batch: 1/2, Loss:3.18879795074
+precision_train  [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.  0.  0.  0.  0.]
+recall_train  [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.  0.  0.  0.  0.]
+train_loss_epoch 3.21117341518
+avg_precision_train  0.0
+avg_recall_train  0.0
+f1_scores_train  0.0
+------------------------TESTING EPOCH: 0---------------------------
+test loss mean  3.17894911766
+precision_test  [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.  0.  0.  0.  0.]
+recall_test  [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.  0.  0.  0.  0.]
+avg_precision_test  0.0
+avg_recall_test  0.0
+f1_scores_test  0.0
+------------------------TRAINING testingout - EPOCH: 1---------------------------
+Epoch: 1, Batch: 0/2, Loss:3.09618639946
+Epoch: 1, Batch: 1/2, Loss:3.08984851837
+precision_train  [ 0.          0.75        0.          0.          0.          0.          0.
+  0.          0.29166667  0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.          0.
+  0.          0.          0.        ]
+recall_train  [ 0.          0.06818182  0.          0.          0.          0.          0.
+  0.          0.35        0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.          0.
+  0.          0.          0.        ]
+train_loss_epoch 3.09301745892
+avg_precision_train  0.502331002331
+avg_recall_train  0.502331002331
+f1_scores_train  0.121424030515
+------------------------TESTING EPOCH: 1---------------------------
+test loss mean  3.1709394455
+precision_test  [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.  0.  0.  0.  0.]
+recall_test  [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.  0.  0.  0.  0.]
+avg_precision_test  0.0
+avg_recall_test  0.0
+f1_scores_test  0.0
